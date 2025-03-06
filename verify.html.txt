@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>產品資訊</title>
+  <title>產品驗證頁面</title>
   <style>
     body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
     .sn-info { background: #f5f5f5; padding: 20px; border-radius: 10px; }
